@@ -1,4 +1,4 @@
-# Call [a link](https://openweathermap.org/) to fetch weather by city name .
+# Call [openWeatherMap](https://openweathermap.org/) to fetch weather by city name .
 
 ![](screenshot/weather_js_pic_1.png)
 ![](screenshot/weather_js_pic_2.png)
