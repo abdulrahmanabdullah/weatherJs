@@ -1,6 +1,5 @@
-# Call openWeather.com to fetch weather by city name .
+# Call [a link](https://openweathermap.org/) to fetch weather by city name .
 
-** Screenshot**
 ![](screenshot/weather_js_pic_1.png)
 ![](screenshot/weather_js_pic_2.png)
 
